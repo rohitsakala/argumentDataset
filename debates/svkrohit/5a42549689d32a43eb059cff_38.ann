@@ -1,7 +1,0 @@
-T1	Claim 417 680	The Opposition claimed that this was a violation of Jammu & Kashmir Constitution and of Article 370 because it eroded the State's special status in terms of its own financial autonomy and its legislative powers which are reserved for the Jammu & Kashmir Assembly.
-T2	Premise 3021 3188	By providing safeguards to the special status to the State, the country has sent out a message to the people of Jammu and Kashmir that India cares for its sensitivity.
-R1	attacks Arg1:T2 Arg2:T1	
-T3	Premise 3189 3340	The constitutional safeguards for the State as per Section 5 of the constitution of the State which empowers the State to levy tax-shall remain intact.
-R2	attacks Arg1:T3 Arg2:T1	
-T4	Claim 809 912	By extending GST to Jammu and Kashmir, the Centre gains effective control of the taxation in the State.
-R3	attacks Arg1:T3 Arg2:T4	
