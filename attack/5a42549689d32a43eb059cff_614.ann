@@ -1,0 +1,10 @@
+T1	Claim 1347 1422	Apart from that, this network has been kept out of the purview of the C&AG.
+T2	Premise 3872 3946	I also added one more thing that GSTN will also be subjected to CAG audit.
+R1	attacks Arg1:T2 Arg2:T1	
+T3	Premise 4111 4253	If the government levies the same rate on all commodities then both the rich and the poor will pay the same amount of tax which is not proper.
+T4	Claim 634 753	What is happening is, unlike Malaysia and Singapore where GST has been a success, we are keeping so many levels of GST.
+R2	attacks Arg1:T4 Arg2:T3	
+T5	Premise 4710 4835	But if you had done it immediately and had a single slab or lesser slab, its inflationary effect would have been much higher.
+R3	attacks Arg1:T5 Arg2:T4	
+T6	Claim 1529 1724	Under GST regime we are again burdened with Inspector Raj from 0 to 28 per cent plus GST at various levels killing the small traders, killing the small people and killing the average businessmen.
+R4	attacks Arg1:T6 Arg2:T3	

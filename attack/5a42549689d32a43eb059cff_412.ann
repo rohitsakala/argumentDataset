@@ -1,0 +1,6 @@
+T1	Premise 2397 2428	The poor is getting the relief.
+T2	Claim 925 974	Prices of essential services have also increased.
+R1	attacks Arg1:T1 Arg2:T2	
+T3	Claim 975 1064	In essence, the tax rate of a large number of goods and services has increased under GST.
+T4	Premise 2438 2516	the inflation was 10-11 per cent which has come down to one and half per cent.
+R2	attacks Arg1:T4 Arg2:T3	

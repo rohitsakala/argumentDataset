@@ -1,0 +1,3 @@
+T1	Claim 3114 3262	When GST first came in, the notion was that it is good and there will be better tax compliance and more tax collection which is good for the nation.
+T2	Premise 3483 3552	In the immediate effect, there is a dip in the Government collection.
+R1	attacks Arg1:T2 Arg2:T1	

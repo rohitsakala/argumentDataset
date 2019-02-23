@@ -1,0 +1,210 @@
+T2	Claim 189 268	Today, the specter of fear and terror is looming large over the entire country.
+T3	Claim 269 335	These incidents have tarnished the image of India across the world
+T6	Claim 466 565	These incidents have shaken the conscience of the patriots and the humanist people of this country.
+T8	Claim 640 749	Communal and criminal incidents continue to take place since the NDA Government came to power in the country.
+T9	Premise 750 854	The perpetrators of such incidents are directly or indirectly being encouraged from the Government side.
+T11	Premise 911 1025	during these seventy years such incidents have never taken place in the name of religion, cow and cow vigilantism.
+T15	Claim 1281 1398	Such incidents are taking place in all the BJP-ruled states namely Gujarat, Jharkhand, Uttar Pradesh and Maharashtra.
+T16	Claim 1495 1640	On the one hand it is said that action will be taken against the perpetrators of mob lynching and they will be liable to get stringent punishment
+T17	Premise 1645 1716	on the other hand no action has so far been taken against such persons.
+R1	attacks Arg1:T17 Arg2:T16	
+T18	Claim 1730 1808	incidents of mob lynching are ever increasing in Jharkhand and Madhya Pradesh.
+T22	Premise 2004 2054	The Government is forcefully imposing its ideology
+T23	Claim 2065 2088	it needs to be opposed.
+T1	Premise 0 76	The incidents of atrocities and mob lynching in this country are deplorable.
+R2	supports Arg1:T1 Arg2:T3	
+R3	supports Arg1:T1 Arg2:T2	
+R4	supports Arg1:T1 Arg2:T6	
+R5	supports Arg1:T17 Arg2:T8	
+R6	supports Arg1:T9 Arg2:T8	
+R7	supports Arg1:T11 Arg2:T8	
+T5	Claim 1090 1202	today, we have forgotten the message given by Gautam Buddha, Mahavira, Guru Nanak, Bashweshwar and Narayan Guru.
+R8	supports Arg1:T1 Arg2:T5	
+R9	supports Arg1:T9 Arg2:T15	
+R10	supports Arg1:T9 Arg2:T18	
+R11	supports Arg1:T22 Arg2:T23	
+T21	Claim 4012 4171	people of another village called Narsam who belong to a particular community said that they would not allow the religious procession to go through on that road
+T24	Premise 4181 4254	there was a religious place of that particular community along that road.
+R12	supports Arg1:T24 Arg2:T21	
+T25	Claim 4376 4468	There are some people in the country who lack the courage to oppose this Government directly
+T26	Premise 4473 4503	they are fighting a proxy war.
+R14	supports Arg1:T26 Arg2:T25	
+T27	Claim 5167 5201	all of us should fight against it.
+T28	Premise 4936 5162	I would like to submit to the crores of poor people, farmers, labourers, Hindus, Muslims, Sikhs and Christians of the country that they have been made to fight with one another and they have been subjected to massacre as well.
+R15	supports Arg1:T28 Arg2:T27	
+T7	Premise 5845 5951	97 per cent of these incidents between 2010 and 2017 took place after Narendra Modi came to power in 2014.
+T13	Claim 6246 6272	It is not being controlled
+T14	Premise 6281 6356	the ruling party's top leaders were very shy of condemning these incidents.
+R16	supports Arg1:T14 Arg2:T13	
+T19	Claim 6831 6855	I demand a separate law.
+T29	Premise 6685 6730	Under Cr.PC and IPC, lynching is not defined.
+T30	Claim 6856 6957	I suggest that a Manav Suraksha Kanoon, for preventing lynching, should be brought by the Government.
+R17	supports Arg1:T29 Arg2:T19	
+R18	supports Arg1:T29 Arg2:T30	
+T31	Premise 5725 5789	They calculated that from 2010 to 2017, there were 63 incidents.
+R19	supports Arg1:T31 Arg2:T19	
+R20	supports Arg1:T31 Arg2:T30	
+T32	Claim 2675 2883	As far as incidents of mob lynching are concerned, I would like to say that some people in disguise are behind these terrorist activities in a planned manner to tarnish and malign the image of the Government.
+R21	attacks Arg1:T9 Arg2:T32	
+T36	Claim 7808 7872	I would like to submit that these two things cannot go together.
+T37	Claim 7873 7919	On one hand, they talk about federal structure
+T38	Premise 7924 7982	on the other they thrust the state subjects on the centre.
+R22	attacks Arg1:T38 Arg2:T37	
+T39	Premise 7873 7982	On one hand, they talk about federal structure and on the other they thrust the state subjects on the centre.
+R23	supports Arg1:T39 Arg2:T36	
+T40	Premise 8460 8528	maintaining law and order is the responsibility of State Governments
+T41	Claim 8371 8438	State Governments must sternly deal with such anti-social elements.
+R24	supports Arg1:T40 Arg2:T41	
+T42	Claim 8533 8619	wherever these incidents are taking place, State Governments must deal with it firmly.
+R25	supports Arg1:T40 Arg2:T42	
+T43	Claim 9989 10037	All these things need to be addressed seriously.
+T44	Premise 9885 9988	Women are routinely branded as witches and lynched to death for property in large parts of the country.
+R26	supports Arg1:T44 Arg2:T43	
+T45	Premise 9809 9884	Vigilante cow protection groups have killed people for transporting cattle.
+T46	Premise 9722 9808	There has been an increase in the number incidents of lynching every year in the past.
+R27	supports Arg1:T45 Arg2:T43	
+R28	supports Arg1:T46 Arg2:T43	
+T47	Premise 10341 10381	Empower the women to empower the nation.
+R29	supports Arg1:T47 Arg2:T43	
+T48	Premise 10787 10959	The concern for protecting the rights and dignity of people belonging to Scheduled Castes and Tribes has been a major challenge even after 70 years of India's Independence.
+T49	Claim 10960 11243	The Tamil Nadu Government has taken several steps by framing appropriate policies needed to design and implement various welfare programmes for achieving the objectives of creating favourable environment to ensure speedy socio-economic development of the Scheduled Castes and Tribes.
+R30	supports Arg1:T48 Arg2:T49	
+T50	Premise 11244 11412	Despite special protective laws and their implementation for many decades, the Scheduled Castes continue to be the victims of caste-based untouchability and atrocities.
+T51	Claim 10787 10959	The concern for protecting the rights and dignity of people belonging to Scheduled Castes and Tribes has been a major challenge even after 70 years of India's Independence.
+R31	supports Arg1:T50 Arg2:T51	
+T52	Claim 11549 11674	We should be united and committed to protect the basic human rights and principles of justice, equality, liberty, fraternity.
+R32	supports Arg1:T45 Arg2:T52	
+R33	supports Arg1:T44 Arg2:T52	
+R34	supports Arg1:T48 Arg2:T52	
+T55	Claim 12289 12344	the poor Hindu farmer is compelled to sell the animals.
+T56	Premise 12229 12283	when the animal gets older and is incapable of working
+R35	supports Arg1:T56 Arg2:T55	
+T54	Claim 12691 12742	Our farmers are unable to sell the useless animals.
+T57	Premise 12651 12667	They are scared.
+R36	supports Arg1:T57 Arg2:T54	
+T58	Claim 12743 12785	The economic cycle has been put to a stop.
+T59	Premise 12691 12742	Our farmers are unable to sell the useless animals.
+R37	supports Arg1:T59 Arg2:T58	
+T60	Claim 12845 12907	They are unable to get a loan to get another pair of bullocks.
+R38	supports Arg1:T59 Arg2:T60	
+T61	Claim 12912 12954	it has actually damaged the rural economy.
+T62	Premise 12743 12785	The economic cycle has been put to a stop.
+R39	supports Arg1:T62 Arg2:T61	
+T63	Claim 12955 13042	By this lynching process, a movement has started which will eventually kill the farmer.
+T64	Premise 13043 13141	If a farmer keeps a animal which is useless, that animal eats dana (feed) of minimum Rs.100 a day.
+T65	Premise 13142 13288	Apart from that, farmers have to spend anything between Rs.300 and Rs.700 for medication to get the vet to feed him medicines or inject medicines.
+R40	supports Arg1:T64 Arg2:T63	
+R41	supports Arg1:T65 Arg2:T63	
+T66	Claim 13774 13829	These are little sparks but signs of a towering crisis.
+T67	Premise 13676 13745	The number of agrarian riots has increased by a massive 327 per cent.
+R42	supports Arg1:T67 Arg2:T66	
+T68	Claim 14632 14737	I would like to say that violence is taking place either in the name of religion or in the name of caste.
+T69	Premise 14568 14620	The main reason for it is the underlying inequality.
+T70	Premise 14738 14781	The violence starts at the level of family.
+T71	Claim 14782 14846	There is a need to check the family violence first and foremost.
+R43	supports Arg1:T70 Arg2:T71	
+R44	supports Arg1:T69 Arg2:T68	
+T72	Claim 14903 15027	The violence and discrimination are taking place in the name of regionalism, rich and poor and also in the name of language.
+R45	supports Arg1:T69 Arg2:T72	
+T73	Claim 15974 16047	I have never given any attention towards the eating habits of the people.
+T74	Premise 16048 16091	I have always taken it as a gift of nature.
+R46	supports Arg1:T74 Arg2:T73	
+T75	Claim 16219 16311	I would like to stress that to kill somebody over his eating habits is even a greater crime.
+T76	Premise 16092 16191	Nobody gives us any right to indulge in atrocity against others on the basis of their eating habit.
+R47	supports Arg1:T76 Arg2:T75	
+T77	Claim 16312 16398	Our country stands for unity in diversity and is home to diverse religions and castes.
+T78	Premise 16399 16454	Our Constitution also has recognized these diversities.
+R48	supports Arg1:T78 Arg2:T77	
+T79	Claim 16582 16622	this kind of attitude weakens our unity.
+T80	Premise 16522 16577	some people say that they would not chant Vande Mataram
+R49	supports Arg1:T80 Arg2:T79	
+T81	Claim 16455 16513	There is an issue relating to Vande Mataram in Maharashtra
+R50	supports Arg1:T80 Arg2:T81	
+T82	Claim 17167 17297	It is clear that mob violence has been increasing continuously, not in the last three to four years but in the last 20 years, etc.
+T84	Claim 17635 17718	I do not think anyone can attribute it only to the BJP or the non-BJP ruled States.
+R51	attacks Arg1:T7 Arg2:T84	
+R52	attacks Arg1:T7 Arg2:T82	
+R53	attacks Arg1:T9 Arg2:T84	
+T83	Claim 18688 18958	There should also be an amendment in the IPC for the enactment of a new law to include mob lynching and the State Governments should be directed to ensure the arrest of criminal within 24 hours after the crime and punishment should be meted out at the earliest possible.
+T85	Premise 18561 18687	Hon.Minister has given a very concrete suggestion that there should be a censure motion against the incidents of mob lynching.
+R54	supports Arg1:T85 Arg2:T83	
+T86	Claim 19830 19894	There has to be concerted efforts to ensure that peace prevails.
+T87	Premise 19742 19829	Hon.Prime Minister has condemned it but merely condemnation will not serve any purpose.
+R55	supports Arg1:T87 Arg2:T86	
+T88	Claim 20280 20350	From our 17 MPs, the mother tongues of five MPs are totally different.
+T89	Premise 20232 20279	We come from a culture of Ganga-Jamuni tehzeeb.
+R56	supports Arg1:T89 Arg2:T88	
+T90	Claim 20442 20524	We are the youngest State, but in terms of tolerance, we are the number one State.
+R57	supports Arg1:T89 Arg2:T90	
+T91	Claim 21198 21266	It is happening for the past ten years and it is increasing rapidly.
+T92	Premise 21014 21197	unfortunately, in the first six months of 2017, 20 cow terror attacks were reported - more than 75 per cent of the 2016 figure - which was the worst year for such violence since 2010.
+R58	supports Arg1:T92 Arg2:T91	
+T93	Claim 21606 21735	they are demanding different gram panchayats for the Dalits so that they will also develop leadership qualities among themselves.
+T94	Premise 21458 21601	They are deprived of all the facilities and they are not being allowed to enter the temples of worship as well as even for the basic amenities.
+R59	supports Arg1:T94 Arg2:T93	
+T95	Claim 23015 23065	The Maharashtra Government has given her a notice.
+T96	Premise 22934 23014	A poor radio jockey of Mumbai made a simple song against the potholes of Mumbai.
+R60	supports Arg1:T96 Arg2:T95	
+T97	Claim 25462 25475	It is inhuman
+T98	Premise 25476 25537	if someone fails to differentiate between humans and animals.
+R61	supports Arg1:T98 Arg2:T97	
+T99	Claim 26003 26053	he can feel the pain and happiness of all Indians.
+T100	Premise 25897 25999	Our Prime Minister has been claiming repeatedly that he is the Prime Minister of 125 crore of Indians.
+R62	supports Arg1:T100 Arg2:T99	
+T101	Premise 26058 26092	his deeds do not match with words.
+R63	attacks Arg1:T101 Arg2:T99	
+T102	Claim 26240 26312	They feel that they can kill any one they want and nobody can harm them.
+T103	Premise 26313 26382	They are openly insulting the constitution and constitutional bodies.
+T104	Premise 26426 26487	Modi Government is only an onlooker and seems to be helpless.
+R64	supports Arg1:T104 Arg2:T101	
+R65	supports Arg1:T103 Arg2:T102	
+R66	supports Arg1:T104 Arg2:T102	
+T105	Premise 26093 26185	Today Dalits, Muslims, Tribals and Weaker Sections are facing atrocities across the country.
+T106	Claim 27067 27144	They are worried about the direction in which the country of Gandhi is going.
+R67	supports Arg1:T105 Arg2:T106	
+T107	Claim 27207 27268	All the right thinking and justice loving people are worried.
+R68	supports Arg1:T105 Arg2:T107	
+T108	Claim 27969 27995	The police fired upon them
+T109	Premise 27851 27968	In Punjab, in Bahwalkalan a crowd was peacefully performing kirtan against the desecration of Shri Guru Granth Sahib.
+R69	supports Arg1:T109 Arg2:T108	
+T110	Claim 28869 28920	This does not give the right message to the nation.
+T111	Premise 28780 28868	My view is that in such a sensitive issue accusation and counter accusation is not good.
+R70	supports Arg1:T111 Arg2:T110	
+T112	Claim 29914 30026	It will affect the industry; agriculture, exports, meat trade, jobs and everything will be affected in that way.
+T113	Premise 29681 29791	But one morning, you come out with a law notifying that such a thing should not be done from tomorrow onwards.
+R71	supports Arg1:T113 Arg2:T112	
+T114	Claim 29807 29857	these Thuglaq-like reforms are not at all correct.
+T115	Premise 29914 30026	It will affect the industry; agriculture, exports, meat trade, jobs and everything will be affected in that way.
+R72	supports Arg1:T115 Arg2:T114	
+T116	Claim 30407 30473	Mob lynching is even now taking place in my own home State Kerala.
+T117	Premise 30474 30627	Day before yesterday in Kerala there was an attempt on the life of the BJP State President and a Swayam Sewak was brutally lynched in Thiruvananthapuram.
+R73	supports Arg1:T117 Arg2:T116	
+T118	Premise 30973 31038	275 Swayam Sewaks were lynched in the last few decades in Kerala.
+R74	supports Arg1:T118 Arg2:T116	
+T119	Claim 31039 31100	It is a frightening situation for women, dalits and the weak.
+R75	supports Arg1:T118 Arg2:T119	
+T120	Claim 31664 31727	I want to emphasize that incidents of mob lynching will not end
+T121	Premise 31736 31821	this Government is promoting religion as ideology, which is against the Constitution.
+R76	supports Arg1:T121 Arg2:T120	
+T122	Claim 32018 32103	The third thing is that the Government has utterly failed in its constitutional duty.
+R77	supports Arg1:T121 Arg2:T122	
+T123	Claim 32466 32505	This country needs to be saved from it.
+T124	Premise 32506 32543	The Government is promoting Hindutva.
+R78	supports Arg1:T124 Arg2:T123	
+T125	Premise 32104 32156	Muslims and dalits are victims of targeted killings.
+R79	supports Arg1:T125 Arg2:T123	
+T126	Claim 24957 24987	The BJP treats all as Indians.
+R80	attacks Arg1:T121 Arg2:T126	
+R81	attacks Arg1:T124 Arg2:T126	
+T127	Premise 33241 33418	Article 246, Entry 15 of the State List of the Seventh Schedule and Section 39 of the CRPC clearly mention the preservation, protection and improvement of cow and milch animals.
+T128	Claim 33451 33601	we have issued clear advisory to all States and Union Territories of the country that mob lynching or anything related to that will not be acceptable.
+R82	supports Arg1:T127 Arg2:T128	
+T129	Claim 35619 35663	These provisions differ from State to State.
+T130	Premise 35350 35568	Till date, 24 States and 5 Union Territories have framed their own laws on banning or restricting the slaughter of animals and their progenies while 05 states and One Union Territory have no legislation in this regard.
+R83	supports Arg1:T130 Arg2:T129	
+T131	Claim 36896 36917	BJP will be stronger.
+T132	Premise 36810 36891	The more opposition tries to defame us, the more they will get defamed themselves
+R84	supports Arg1:T132 Arg2:T131	
+T133	Claim 35723 35771	The Central Government cannot interfere with it.
+T134	Premise 35664 35722	These States are free to act as per their respective laws.
+R85	supports Arg1:T134 Arg2:T133	

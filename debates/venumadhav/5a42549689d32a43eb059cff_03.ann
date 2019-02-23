@@ -1,0 +1,3 @@
+T1	Claim 3213 3475	The Opposition claimed that this was a violation of Jammu & Kashmir Constitution and of Article 370 because it eroded the State's special status in terms of its own financial autonomy and its legislative powers which are reserved for the Jammu & Kashmir Assembly
+T2	Premise 640 848	Jammu & Kashmir went through that legislative process and finally passed a Resolution in their State Assembly and then brought in a relevant legislation by virtue of which they passed their own State GST Act.
+R1	attacks Arg1:T1 Arg2:T2	

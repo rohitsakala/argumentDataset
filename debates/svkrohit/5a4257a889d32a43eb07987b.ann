@@ -1,0 +1,177 @@
+T1	Claim 0 49	The Factories Act of 1948 is a comprehensive Act.
+T2	Premise 50 186	The Central legislation is for safety, health and welfare of labourers as also working hours and regulations of their working condition.
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 749 790	I am mentioning this enhancement of hours
+T4	Premise 799 842	145 hours in a quarter is described in ILO.
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 1158 1281	I would like to request this august House to consider and pass this Bill, which will give a boost the manufacturing sector.
+T6	Premise 1050 1144	It will also ensure uniformity and its application in the entire State Governments and in UTs.
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 1523 1703	It is not appropriate to bring this legislation to amend only two sections of the main Act in the name of labour reforms as a comprehensive Bill on this subject is already pending.
+T8	Claim 1819 1892	I fail to understand the reasons for hurry in amending only two sections.
+T9	Premise 1726 1817	the report presented by the Parliamentary Standing Committee on Labour is under examination
+R4	supports Arg1:T9 Arg2:T8	
+R5	supports Arg1:T7 Arg2:T8	
+T10	Premise 1934 2031	the employment is going to increase just by increasing the working hours of the existing workers.
+T11	Claim 2032 2093	This will only increase the burden of the existing employees.
+R6	attacks Arg1:T10 Arg2:T11	
+T12	Claim 2149 2229	the powers of the State Governments are also being taken away through this Bill.
+T13	Premise 918 1049	in Sections 64 and 65 - to make rules and orders, the rights and powers of the State Governments are not being taken away anywhere.
+R7	attacks Arg1:T13 Arg2:T12	
+T14	Claim 2279 2337	the states should also have been consulted in this regard.
+T15	Premise 2230 2268	Labour is a subject of Concurrent List
+R8	supports Arg1:T15 Arg2:T14	
+T16	Claim 2460 2576	I would like to request the hon.Minister to withdraw this Amendment Bill and bring a fresh Bill in the next Session.
+T17	Premise 2338 2448	The labourers should not be exploited in the name of Make in India, ease of doing business and liberalization.
+R9	supports Arg1:T17 Arg2:T16	
+T18	Claim 3048 3133	in reality, this has not turned out to be effective for the welfare of the labourers.
+T19	Premise 3134 3217	This is because the erstwhile government has not paid much attention to this issue.
+R10	supports Arg1:T19 Arg2:T18	
+T20	Claim 3518 3555	hon.Minister has made this provision.
+T21	Premise 3282 3506	Under Section 64, an employee is given 50 hours overtime in three months time period and if the employee works for extra hours as overtime then the factory owner is not liable to pay beyond the upper ceiling of the overtime.
+R11	supports Arg1:T21 Arg2:T20	
+T22	Claim 2818 2887	This is a very important Bill which is really in favour of labourers.
+R12	supports Arg1:T21 Arg2:T22	
+T23	Premise 3933 4039	Under a new provision, uniform, safety and safe drinking water is the responsibility of the factory owner.
+R13	supports Arg1:T23 Arg2:T22	
+T24	Claim 4151 4217	They did not bring such a labour friendly Bill in last forty years
+T25	Premise 4221 4262	they do not have any concern for workers.
+R14	supports Arg1:T25 Arg2:T24	
+T26	Claim 3645 3716	The leader of the Opposition party wants that they should not progress.
+T27	Premise 4151 4262	They did not bring such a labour friendly Bill in last forty years as they do not have any concern for workers.
+R15	supports Arg1:T27 Arg2:T26	
+T28	Claim 3134 3217	This is because the erstwhile government has not paid much attention to this issue.
+R16	supports Arg1:T27 Arg2:T28	
+T29	Claim 5057 5222	according to the present Bill, the power of the State Governments to make rules will be restricted to matters where the Central Government does not have such powers.
+R17	attacks Arg1:T13 Arg2:T29	
+T30	Claim 5254 5318	the Centre should not interfere in the State Governments' rights
+T31	Premise 5322 5360	it will destroy the federal structure.
+R18	supports Arg1:T31 Arg2:T30	
+T32	Claim 6097 6232	As far framing of rules is concerned, the primacy has been given to the Central Government and the State Government is coming later on.
+R19	attacks Arg1:T13 Arg2:T32	
+T33	Premise 6480 6540	It will adversely affect the health condition of the workers
+R20	attacks Arg1:T33 Arg2:T22	
+T34	Claim 6852 6913	the ILO's recommendation is neither mandatory nor compulsory.
+T35	Premise 6628 6840	The hon.Labour Minister has referred to the International Labour Organization's recommendations but let him tell me whether the condition in any factory in England, America, Canada or Switzerland similar to ours.
+R21	supports Arg1:T35 Arg2:T34	
+T36	Claim 7130 7160	this is a Bill which I oppose.
+T37	Premise 6988 7118	If the Government continues with overtime, the unemployment problem will be aggravated and new employment scope will not be there.
+R22	supports Arg1:T37 Arg2:T36	
+T38	Claim 7772 7861	the Government is working overtime to infringe upon the autonomy of the State as a whole.
+R23	attacks Arg1:T13 Arg2:T38	
+T39	Claim 8045 8086	it will improve the unemployment problem.
+R24	attacks Arg1:T37 Arg2:T39	
+T40	Claim 8435 8474	it creates a huge work-family conflict.
+T41	Premise 8381 8433	the working hours, increase beyond 60 hours per week
+R25	supports Arg1:T41 Arg2:T40	
+T42	Claim 8675 8742	there is reduction in the performance to the extent of 25 per cent.
+T43	Premise 8637 8673	the working hours go beyond 60 hours
+R26	supports Arg1:T43 Arg2:T42	
+T44	Claim 9267 9321	Several Acts are passed but they remain only in paper.
+T45	Premise 9322 9420	In several factories extra work is done by the employees but they are not paid for the extra work.
+R27	supports Arg1:T45 Arg2:T44	
+T46	Claim 9841 9880	Such companies should be taken to task.
+T47	Premise 9736 9840	There are several factories where employees work for long hours but they do not get their agreed salary.
+R28	supports Arg1:T47 Arg2:T46	
+T48	Claim 10298 10359	The Government proposed 54 changes to the Factories Act, 1948
+T49	Premise 1819 1892	I fail to understand the reasons for hurry in amending only two sections.
+R29	attacks Arg1:T49 Arg2:T48	
+T50	Claim 10714 10740	I welcome these provisions
+T51	Premise 10749 10790	they are in the interests of the workers.
+R30	supports Arg1:T51 Arg2:T50	
+T52	Claim 11223 11312	It is not for the benefit of the labourers, the workers, and the employees of our country
+R31	attacks Arg1:T51 Arg2:T52	
+R32	attacks Arg1:T23 Arg2:T52	
+T53	Premise 11837 11919	every year more than one crore unemployed youths are entering into the job market.
+T54	Claim 11924 12058	if this Government really wants to give jobs to unemployed youths of our country, this overtime period should not have been increased.
+R33	supports Arg1:T53 Arg2:T54	
+T55	Claim 12284 12315	I strongly oppose the amendment
+T56	Premise 12168 12279	I would like to say that majority of the productive workforce will be out of the coverage of the Factories Act.
+R34	supports Arg1:T56 Arg2:T55	
+T57	Claim 12932 13086	Whenever there is a major case or accidents take place, as a special case, the Labour Courts may conduct the hearings of the cases in the premises itself.
+T58	Premise 13087 13116	This will help the employees.
+R35	supports Arg1:T58 Arg2:T57	
+T59	Claim 13754 13796	The Government should give proper guidance
+T60	Premise 13805 13866	the machinery is updated and the working conditions improved.
+R36	supports Arg1:T60 Arg2:T59	
+T61	Claim 14710 14767	I welcome the amendment proposed for overtime in the Bill
+T62	Premise 14776 14831	no one ever gave it a thought ever since the year 1987.
+R37	supports Arg1:T62 Arg2:T61	
+T63	Claim 7355 7467	I say that this is an anti-labour Bill which amounts to interference with the federal structure of this country.
+T64	Premise 14920 14969	I do not find any anti-labour clause in the Bill.
+R38	attacks Arg1:T64 Arg2:T63	
+T65	Claim 15263 15335	I do not think overtime clause would create the problem of unemployment.
+R39	attacks Arg1:T37 Arg2:T65	
+T66	Premise 17629 17727	The industry which requires raw materials from basic industries should be set up in adjoining area
+T67	Claim 17737 17800	to bring them under the control of concerned state governments.
+R40	supports Arg1:T66 Arg2:T67	
+T68	Claim 18767 18809	it will result in increase in unemployment
+T69	Premise 18818 18935	capital is meant for earning profit and if it can take more work from one person then it will not employ more person.
+R41	supports Arg1:T69 Arg2:T68	
+R42	attacks Arg1:T69 Arg2:T65	
+R43	attacks Arg1:T69 Arg2:T39	
+T70	Claim 19232 19285	it becomes very difficult to lead a comfortable life.
+T71	Premise 19202 19226	They get such low salary
+R44	supports Arg1:T71 Arg2:T70	
+T72	Claim 19527 19602	I request you to roll back this law and overtime which is being introduced.
+T73	Premise 19477 19526	He will throw himself in the work for his family.
+R45	supports Arg1:T73 Arg2:T72	
+T74	Premise 19397 19476	The labourer is forced to work more due to inflation and decline in real wages.
+R46	supports Arg1:T74 Arg2:T72	
+T75	Premise 20720 20780	Labour organizations have also opposed it at several places.
+T76	Claim 20792 20815	I also oppose this Bill
+R47	supports Arg1:T75 Arg2:T76	
+T77	Claim 21181 21293	there is a need for seeking suggestion from the Standing Committee after sending the said Bill to the Committee.
+T78	Premise 21066 21174	leaders of Labour Unions have sent letters to us and tried to make several efforts to meet the Hon.Minister.
+R48	supports Arg1:T78 Arg2:T77	
+T79	Premise 22181 22343	Standing Committee in its Report has stated that increasing the overtime hours across the factory would certainly have an adverse impact on employment generation.
+R49	attacks Arg1:T79 Arg2:T39	
+T80	Claim 23206 23301	The Government wants to increase the employment hours of those working in the organized sector.
+T81	Premise 23302 23443	The Government has talked about increasing 50 hours duration to 100 hours duration and has fixed the maximum period of overtime to 125 hours.
+R50	supports Arg1:T81 Arg2:T80	
+T82	Claim 23792 23908	the Government has not made any provision of overtime for the factories engaging less people than the figure of 300.
+T83	Premise 23712 23777	Factory Act applies to the factory engaging three hundred people.
+R51	supports Arg1:T83 Arg2:T82	
+T84	Claim 24453 24546	I oppose this Bill and would like to seek clarification from the Hon.Minister in this regard.
+T85	Premise 24291 24452	If the government goes on taking such steps, it will lead to discouraging Skill India programme, MUDRA scheme and other such schemes initiated by the Government.
+R52	supports Arg1:T85 Arg2:T84	
+T86	Claim 24788 24857	This Bill is not a progressive one and rather it is a regressive one.
+T87	Premise 24858 25011	The Government's intention is not to bring more workers under the ambit of the Factories Act but to remove them from the protection of the Factories Act.
+R53	supports Arg1:T87 Arg2:T86	
+T88	Claim 25012 25071	This Act really requires substantial amendments in this era
+T89	Premise 25087 25250	outsourcing is increasing in an alarming way; second, privatisation is taking place in a big way; and third, growth of unorganised sector is another big challenge.
+R54	supports Arg1:T89 Arg2:T88	
+T90	Claim 26369 26409	It will give a fillip to the industries.
+T91	Premise 26227 26368	Through this Bill, it has been provided to enhance the overtime hours, allow the women to work during the night and provide security to them.
+R55	supports Arg1:T91 Arg2:T90	
+T92	Claim 26495 26566	it will encourage the industries and generate employment opportunities.
+T93	Premise 26410 26494	If the laws which hamper the progress of the industries are replaced by a better law
+R56	supports Arg1:T93 Arg2:T92	
+T94	Claim 27226 27327	By this amendment arbitrary authority is being conferred upon the Government of India to frame rules.
+R57	attacks Arg1:T13 Arg2:T94	
+T95	Claim 27825 27960	my submission is to withdraw the Bill or refer this Bill also to the Standing Committee, which is already pursuing the recommendations.
+T96	Premise 27658 27820	By allowing 125 hours of overtime in three months, Government is indirectly banning the recruitment in factories and creating unemployment problem in the country.
+R58	supports Arg1:T96 Arg2:T95	
+T97	Premise 27405 27557	The right of the State Government is being taken away by the Central Government, which is against federal character of our Constitution and anti-labour.
+R59	supports Arg1:T97 Arg2:T95	
+T98	Claim 30383 30458	Prime Minister had announced that two Crore people will get jobs every year
+T99	Premise 30464 30556	data of their own department shows that much less jobs have been generated in the year 2015.
+R60	attacks Arg1:T99 Arg2:T98	
+T100	Claim 31018 31070	The amendment should cover the loopholes of the law.
+T101	Premise 30928 31017	There is no medical compensation provided to contractual and casual workers in factories.
+R61	supports Arg1:T101 Arg2:T100	
+T102	Claim 31169 31196	This is an anti labour Bill
+R62	attacks Arg1:T64 Arg2:T102	
+T103	Claim 32286 32370	There is no compulsion on him or her but it is an incentive to get the double wages.
+T104	Premise 32155 32285	the proposal to increase over time period by amending Sections 64 and 65 is not at all mandatory, it is upto the worker to decide.
+R63	supports Arg1:T104 Arg2:T103	
+T105	Claim 32406 32513	I want to clarify to all the hon.Members is that we are not curtailing any powers of the State Governments.
+T106	Claim 33126 33253	About the role of the Central Government under this Act, I would like to tell that the federal structure is not at all damaged.
+T107	Claim 30275 30382	We don’t want the Government to dictate all the State Governments to compel the labourers to work overtime.
+R64	attacks Arg1:T104 Arg2:T107	
+R65	attacks Arg1:T97 Arg2:T105	
+R66	attacks Arg1:T97 Arg2:T106	
+T108	Premise 5057 5222	according to the present Bill, the power of the State Governments to make rules will be restricted to matters where the Central Government does not have such powers.
+R67	attacks Arg1:T108 Arg2:T105	
+T109	Claim 32555 32648	this is meant for facilitating increase in employment generation in the manufacturing sector.
+R68	attacks Arg1:T79 Arg2:T109	

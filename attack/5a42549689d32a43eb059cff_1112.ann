@@ -1,0 +1,7 @@
+T1	Claim 471 576	after implementation of the GST, we have seen the prices of items rising and it is hurting the tax payer.
+T2	Premise 2278 2309	The poor is getting the relief.
+R1	attacks Arg1:T2 Arg2:T1	
+T3	Premise 2310 2397	Earlier, the inflation was 10-11 per cent which has come down to one and half per cent.
+R2	attacks Arg1:T3 Arg2:T1	
+T4	Premise 2738 2793	This will surely provide succor to the ordinary people.
+R3	attacks Arg1:T4 Arg2:T1	

@@ -1,0 +1,3 @@
+T1	Premise 2197 2266	In the immediate effect, there is a dip in the Government collection.
+T2	Claim 1020 1097	I believe that the people will benefit from more money accruing to the State.
+R1	attacks Arg1:T1 Arg2:T2	

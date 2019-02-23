@@ -1,0 +1,5 @@
+T1	Claim 2206 2324	All the people of the State appreciate the positive and constructive role of the BJP on the issue of GST in the State.
+T2	Premise 1299 1377	When this issue was raised in Jammu and Kashmir, there was a severe agitation.
+R1	attacks Arg1:T2 Arg2:T1	
+T3	Claim 2700 2748	The people of Jammu-Kashmir are happy due to it.
+R2	attacks Arg1:T2 Arg2:T3	

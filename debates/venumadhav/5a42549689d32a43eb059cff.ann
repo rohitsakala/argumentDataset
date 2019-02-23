@@ -1,0 +1,131 @@
+T4	Claim 1022 1113	Jammu & Kashmir, under their Constitution, had to separately undergo a legislative process.
+T5	Claim 1420 1517	Wherever we have mentioned inapplicability to the State of Jammu & Kashmir, that is being deleted
+T6	Premise 1530 1591	the CGST Act will also apply to the State of Jammu & Kashmir.
+R3	supports Arg1:T6 Arg2:T5	
+T7	Claim 1603 1743	in the IGST Act, similar corresponding changes have been made which are necessary upon the integration of the State GST into the Central GST
+T8	Premise 1752 1800	they can become a part of the IGST chain itself.
+R4	supports Arg1:T8 Arg2:T7	
+T11	Claim 2077 2110	t is a very fortunate development
+T12	Premise 2119 2181	it brings about the economic integration of the whole country.
+R6	supports Arg1:T12 Arg2:T11	
+T13	Claim 2182 2206	It is in larger interest
+T14	Premise 2230 2401	if they did not integrate with the national GST, then for goods sold in the State which are manufactured outside the State, they would not get the benefit of input credit.
+T15	Premise 2423 2586	at the interim stage, some taxes have been paid on which they would not get credit and on the final product they will be paying their entire tax for a second time.
+T16	Claim 2730 2785	he traders would have felt that their trade will shrink
+T17	Claim 2794 2875	people would have preferred to buy outside the State rather than within the State
+T18	Premise 2884 2948	the products outside the State would have become cheaper itself.
+R9	supports Arg1:T18 Arg2:T17	
+T19	Premise 2794 2875	people would have preferred to buy outside the State rather than within the State
+R10	supports Arg1:T19 Arg2:T16	
+T20	Claim 2949 2974	The State itself benefits
+T21	Premise 2983 3040	this will also impact on the revenue of the State itself.
+R11	supports Arg1:T21 Arg2:T20	
+T22	Claim 3727 3749	Here lies the problem.
+T23	Premise 3750 3919	The Government has failed to impress upon the State Government of Jammu & Kashmir to get incorporated in the national tax regime which started rolling out from 1st July.
+R12	supports Arg1:T23 Arg2:T22	
+T26	Premise 5140 5303	We will not only be stronger from economic point of view through 'one country, one tax' concept but we will also be able to create a sense of unity of the country.
+T27	Claim 5304 5371	The traders who used to pay a number of taxes will get rid of them.
+R14	supports Arg1:T27 Arg2:T26	
+T28	Premise 5946 6023	I believe that the people will benefit from more money accruing to the State.
+T29	Claim 6024 6072	The people of Jammu-Kashmir are happy due to it.
+R15	supports Arg1:T28 Arg2:T29	
+T30	Claim 6677 6702	We disapprove of this Bil
+T31	Premise 6707 6779	our problem is with the way in which this Government has implemented it.
+R16	supports Arg1:T31 Arg2:T30	
+T32	Premise 6780 6879	Jammu & Kashmir Legislature has passed the GST when the Opposition was not present in the Assembly.
+R17	supports Arg1:T32 Arg2:T30	
+T33	Claim 6884 6979	Opposition claimed that this was a violation of Jammu & Kashmir Constitution and of Article 370
+T34	Premise 6988 7143	it eroded the State's special status in terms of its own financial autonomy and its legislative powers which are reserved for the Jammu & Kashmir Assembly.
+R18	supports Arg1:T34 Arg2:T33	
+T40	Claim 8236 8288	My State, Kerala has become uncompetitive in tourism
+T41	Premise 8297 8371	the tax rate is driving up the cost beyond any of our neighbouring States.
+R22	supports Arg1:T41 Arg2:T40	
+T43	Claim 9738 9811	People planning to purchase white goods will have to shell out more money
+T44	Premise 9815 9906	most appliances and durable makers have increased their prices in the new regime under GST.
+R24	supports Arg1:T44 Arg2:T43	
+T45	Premise 9907 9991	Services to higher education institutes and utility bills will also be taxed higher.
+T46	Premise 9992 10065	Prices of majority of essential drugs have increased up to 2.29 per cent.
+T47	Premise 10066 10115	Prices of essential services have also increased.
+T48	Claim 10128 10205	the tax rate of a large number of goods and services has increased under GST.
+R25	supports Arg1:T48 Arg2:T47	
+R26	supports Arg1:T48 Arg2:T46	
+R27	supports Arg1:T48 Arg2:T45	
+T49	Claim 10488 10514	This needs reconsideration
+T50	Premise 10523 10562	common people are affected due to this.
+R28	supports Arg1:T50 Arg2:T49	
+T1	Premise 866 1010	because of the provisions of Article 370, the Constitution Amendment was applicable to the whole country except to the State of Jammu & Kashmir.
+R1	supports Arg1:T1 Arg2:T4	
+T2	Claim 1114 1322	Jammu & Kashmir went through that legislative process and finally passed a Resolution in their State Assembly and then brought in a relevant legislation by virtue of which they passed their own State GST Act.
+R2	supports Arg1:T1 Arg2:T2	
+R5	supports Arg1:T14 Arg2:T13	
+T3	Claim 2599 2675	that would have made every product in the State of Jammu & Kashmir costlier.
+R7	supports Arg1:T15 Arg2:T3	
+R8	supports Arg1:T14 Arg2:T3	
+T9	Claim 2676 2717	The consumers would have had to pay more.
+T10	Premise 2599 2675	that would have made every product in the State of Jammu & Kashmir costlier.
+R23	supports Arg1:T10 Arg2:T9	
+T42	Premise 8073 8152	28 per cent GST now is going to affect all of the tourism in Jammu and Kashmir.
+T51	Claim 8153 8235	If this is not rolled back, it is likely to make Kashmir uncompetitive in tourism.
+R29	supports Arg1:T42 Arg2:T51	
+T35	Claim 7272 7375	By extending GST to Jammu and Kashmir, the Centre gains effective control of the taxation in the State.
+T36	Premise 7376 7471	That was, of course, something which was reserved by the Constitution for the State Government.
+R19	attacks Arg1:T36 Arg2:T35	
+T37	Premise 5703 5812	GST regime has opened up avenues of progress for the State and the doors for stabilizing the State Exchequer.
+T38	Claim 5946 6023	I believe that the people will benefit from more money accruing to the State.
+R20	supports Arg1:T37 Arg2:T38	
+T39	Premise 4596 4674	When this issue was raised in Jammu and Kashmir, there was a severe agitation.
+T52	Claim 4686 4896	the Government should strive hard to allay their apprehension and fears and see that the special status, the fiscal autonomy and other facilities enjoyed by the people of the Valley should never be compromised.
+R21	supports Arg1:T39 Arg2:T52	
+T24	Claim 4015 4154	Given the sensitivity of the Jammu & Kashmir region, I think the Government should have better prepared before introducing this tax regime.
+R13	supports Arg1:T23 Arg2:T24	
+T25	Premise 4155 4348	There is an apprehension in the minds of the people of Kashmir Valley that whether GST and SGST will harm the special status provided to Jammu and Kashmir under Article 370 of the Constitution.
+R30	supports Arg1:T25 Arg2:T24	
+T53	Premise 6236 6412	With the passage of this Bill, Jammu-Kashmir will progress and will be stronger economically, it will not remain dependent upon any other and will endeavour to be self-reliant.
+T54	Claim 6413 6433	I support this Bill.
+R31	supports Arg1:T53 Arg2:T54	
+T55	Claim 11001 11073	Check post and various declaration forms will now be a thing of the past
+T56	Premise 10834 10999	a landmark tax reform in the form of Goods and Services Tax has been successfully rolled out across the country, including Tamil Nadu, with effect from 1st July 2017
+R32	supports Arg1:T55 Arg2:T56	
+T57	Claim 11499 11566	Hence, there should be a reduction in the rate of GST on fireworks.
+T58	Premise 11381 11497	The present rate of GST is at 28 per cent, and it will cost irreparable harm to this sector and the cottage industry
+R33	supports Arg1:T57 Arg2:T58	
+T59	Claim 11381 11497	The present rate of GST is at 28 per cent, and it will cost irreparable harm to this sector and the cottage industry
+T60	Premise 11251 11379	ireworks industry, which is largely located in Tamil Nadu, is a labour intensive industry, employing more than eight lakh people
+R34	supports Arg1:T59 Arg2:T60	
+T61	Claim 12863 12905	GST network is virtually a private company
+T62	Premise 12907 12977	51 per cent is held by private banks and 49 per cent by the Government
+R35	supports Arg1:T61 Arg2:T62	
+T63	Premise 12979 13156	The GSTN will not only be operated by Fintex but, unfortunately, they will also be privy to each and every transaction that involves GST of companies exceeding 20 lakhs turnover
+R36	supports Arg1:T61 Arg2:T63	
+T65	Claim 17151 17213	Now with this Bill, it is truly one tax for the entire nation.
+T66	Premise 17014 17149	GST has united the fragmented tax structure and created one tax throughout the nation and now it is being extended to Jammu and Kashmir
+R37	supports Arg1:T65 Arg2:T66	
+T64	Claim 16331 16383	Otherwise, the textile sector will be uncompetitive.
+T67	Premise 16239 16330	textile sector in the country has been badly hit and needs to be exempted from the GST net.
+R38	supports Arg1:T67 Arg2:T64	
+T68	Premise 12607 12672	the traders have been on strike in most of the Mandis in Gujarat.
+T69	Claim 12673 12742	So, new orders and outputs have also decreased in the past one month.
+R39	supports Arg1:T68 Arg2:T69	
+T70	Claim 3750 3919	The Government has failed to impress upon the State Government of Jammu & Kashmir to get incorporated in the national tax regime which started rolling out from 1st July.
+R40	attacks Arg1:T70 Arg2:T1	
+T71	Claim 4420 4538	Jammu and Kashmir is the only State where both service tax and goods tax can be levied by the State Government itself.
+R41	attacks Arg1:T71 Arg2:T1	
+R42	supports Arg1:T71 Arg2:T1	
+T72	Claim 3920 4014	The fact remains that nearly 50 per cent of our GDP still remains out of the ambit of the GST.
+R43	attacks Arg1:T72 Arg2:T1	
+T73	Premise 12450 12544	Whether we may claim about GST, it is truly not a 'one nation one tax' as is being propounded.
+T74	Claim 17014 17150	GST has united the fragmented tax structure and created one tax throughout the nation and now it is being extended to Jammu and Kashmir.
+R44	attacks Arg1:T74 Arg2:T73	
+T75	Claim 15307 15396	This is a majority government hence, Article 370 of the Constitution should be abolished.
+R45	attacks Arg1:T34 Arg2:T75	
+R46	attacks Arg1:T29 Arg2:T39	
+T76	Premise 16056 16207	The constitutional safeguards for the State as per Section 5 of the constitution of the State which empowers the State to levy tax-shall remain intact.
+R47	attacks Arg1:T35 Arg2:T76	
+T77	Claim 8717 8914	The current Government version of GST, I am sorry, would have a negative effect on GDP instead of a positive one and it would actually fulfil the warning of the National Institute of Public Policy.
+R48	attacks Arg1:T77 Arg2:T53	
+T78	Claim 14439 14543	When it comes to Jammu and Kashmir, we can understand why it was not implemented there at the same time.
+T79	Premise 14544 14607	It was not possible because of Article 370 of the Constitution.
+R49	supports Arg1:T79 Arg2:T78	
+T80	Claim 15077 15127	We are proud of the surgical strike by our forces.
+T81	Premise 15128 15271	We were shown the video in the Home Ministry in which our Jawans crossed the border and destroyed more than 40 terrorist camps within 12 hours.
+R50	supports Arg1:T81 Arg2:T80	

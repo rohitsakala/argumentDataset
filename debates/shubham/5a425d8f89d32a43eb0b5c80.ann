@@ -1,0 +1,31 @@
+T3	Claim 523 729	A revolutionary decision of nationalising the banks took place on 19th July, 1969 because agriculture was not at all considered as one of the areas where the banks are supposed to give credit to the farmers
+T4	Premise 731 811	That was the rationale behind taking a drastic decision to nationalise the banks
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 813 868	The State Bank of India is now feeling as a big brother
+T6	Premise 1078 1305	But by merging that bank with the State Bank of India, the people of this country, particularly the rural people, are feeling that there is some infringement of their rights in terms of getting loans from the nationalised banks
+R2	attacks Arg1:T5 Arg2:T6	
+T7	Premise 1307 1382	Only the corporate sector and the bigwigs are capable of entering this bank
+R3	attacks Arg1:T5 Arg2:T7	
+T8	Claim 1384 1458	The common man will now feel that the State Bank of India is not his bank.
+R4	attacks Arg1:T8 Arg2:T7	
+T12	Claim 1725 1799	The State Bank of India is imposing some stringent conditions on customers
+T13	Premise 2024 2104	the bank proposes to impose charges for cash withdrawal and also service charges
+R5	attacks Arg1:T12 Arg2:T13	
+T14	Premise 1982 2009	This is a very bad decision
+R6	supports Arg1:T14 Arg2:T12	
+T15	Claim 2106 2139	All these decisions are anti-poor
+R7	attacks Arg1:T13 Arg2:T15	
+T16	Claim 2248 2292	the farmers are in a very critical condition
+T17	Premise 2379 2404	no rain in Southern India
+R8	supports Arg1:T16 Arg2:T17	
+T18	Premise 2410 2484	State of Karnataka is reeling under drought for the last five to six years
+R9	supports Arg1:T16 Arg2:T18	
+T19	Premise 2490 2557	suicide by farmers has assumed alarming proportions in this country
+R10	supports Arg1:T16 Arg2:T19	
+T20	Claim 2563 2680	Government of Karnataka took a revolutionary decision of waiving the loan of the farmers to the tune of Rs.8261 crore
+T1	Claim 5728 5787	Consolidation in the banking sector is the need of the hour
+T2	Premise 5789 5968	Capital Adequacy Ratio for many Public Sector Banks, especially the smaller ones have been steadily declining mainly due to higher provisioning requirements for poor asset quality
+R11	supports Arg1:T1 Arg2:T2	
+T9	Claim 5970 6096	It is also not possible for the Government to always step in with capital infusion into the banks due to budgetary constraints
+T10	Premise 6098 6255	Against this backdrop, consolidation in the banking sector assumes significance and a certain criticality with a view to salvaging the smaller and weaker PSB
+R12	supports Arg1:T9 Arg2:T10	

@@ -1,0 +1,9 @@
+T1	Claim 3249 3418	The Government has failed to impress upon the State Government of Jammu & Kashmir to get incorporated in the national tax regime which started rolling out from 1st July.
+T2	Premise 392 535	because of the provisions of Article 370, the Constitution Amendment was applicable to the whole country except to the State of Jammu & Kashmir
+R1	attacks Arg1:T1 Arg2:T2	
+T3	Claim 1756 1927	if they did not integrate with the national GST, then for goods sold in the State which are manufactured outside the State, they would not get the benefit of input credit.
+T4	Premise 3419 3512	The fact remains that nearly 50 per cent of our GDP still remains out of the ambit of the GST
+R2	attacks Arg1:T3 Arg2:T4	
+T5	Premise 1603 1707	t is a very fortunate development because it brings about the economic integration of the whole country.
+T6	Claim 3909 4037	In India, Jammu and Kashmir is the only State where both service tax and goods tax can be levied by the State Government itself.
+R3	attacks Arg1:T6 Arg2:T5	

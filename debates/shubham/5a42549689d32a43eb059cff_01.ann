@@ -1,0 +1,6 @@
+T1	Claim 392 536	because of the provisions of Article 370, the Constitution Amendment was applicable to the whole country except to the State of Jammu & Kashmir.
+T2	Premise 3249 3418	The Government has failed to impress upon the State Government of Jammu & Kashmir to get incorporated in the national tax regime which started rolling out from 1st July.
+R1	attacks Arg1:T2 Arg2:T1	
+T4	Premise 3419 3513	The fact remains that nearly 50 per cent of our GDP still remains out of the ambit of the GST.
+T5	Claim 1756 1927	if they did not integrate with the national GST, then for goods sold in the State which are manufactured outside the State, they would not get the benefit of input credit.
+R3	attacks Arg1:T4 Arg2:T5	

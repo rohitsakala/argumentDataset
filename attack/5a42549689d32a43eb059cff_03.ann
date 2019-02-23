@@ -1,0 +1,14 @@
+T1	Claim 640 848	Jammu & Kashmir went through that legislative process and finally passed a Resolution in their State Assembly and then brought in a relevant legislation by virtue of which they passed their own State GST Act.
+T2	Premise 3113 3212	Jammu & Kashmir Legislature has passed the GST when the Opposition was not present in the Assembly.
+R1	attacks Arg1:T2 Arg2:T1	
+T3	Claim 1645 1707	it brings about the economic integration of the whole country.
+T4	Premise 3477 3604	By impinging upon the power of the State to impose taxes, the Government is violating the fundamental power of that Government.
+R2	attacks Arg1:T4 Arg2:T3	
+T5	Premise 3321 3476	it eroded the State's special status in terms of its own financial autonomy and its legislative powers which are reserved for the Jammu & Kashmir Assembly.
+R3	attacks Arg1:T5 Arg2:T3	
+T6	Premise 3805 3931	The State has been dealing with conflict for a long time and we must absolutely not do anything that might harm its stability.
+R4	attacks Arg1:T6 Arg2:T1	
+T8	Premise 5050 5247	The current Government version of GST, I am sorry, would have a negative effect on GDP instead of a positive one and it would actually fulfil the warning of the National Institute of Public Policy.
+R5	attacks Arg1:T8 Arg2:T3	
+T7	Claim 1756 1927	if they did not integrate with the national GST, then for goods sold in the State which are manufactured outside the State, they would not get the benefit of input credit.
+R6	attacks Arg1:T8 Arg2:T7	

@@ -1,0 +1,7 @@
+T1	Premise 3764 3961	The current Government version of GST, I am sorry, would have a negative effect on GDP instead of a positive one and it would actually fulfil the warning of the National Institute of Public Policy.
+T2	Claim 1341 1486	Jammu-Kashmir will progress and will be stronger economically, it will not remain dependent upon any other and will endeavour to be self-reliant.
+R1	attacks Arg1:T1 Arg2:T2	
+T3	Claim 769 886	The new GST regime has opened up avenues of progress for the State and the doors for stabilizing the State Exchequer.
+T4	Claim 446 603	This Bill has been introduced here with a view to ensure that the benefit in this regard may accrue to Jammu-Kashmir also along with the rest of the country.
+R2	attacks Arg1:T1 Arg2:T3	
+R3	attacks Arg1:T1 Arg2:T4	

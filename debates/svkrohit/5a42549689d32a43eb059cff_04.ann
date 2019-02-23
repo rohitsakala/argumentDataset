@@ -1,0 +1,13 @@
+T1	Premise 3771 3860	In essence, the tax rate of a large number of goods and services has increased under GST.
+T6	Premise 3393 3561	People planning to purchase white goods will have to shell out more money as most appliances and durable makers have increased their prices in the new regime under GST.
+T7	Premise 3562 3646	Services to higher education institutes and utility bills will also be taxed higher.
+T3	Claim 1756 1927	if they did not integrate with the national GST, then for goods sold in the State which are manufactured outside the State, they would not get the benefit of input credit.
+R1	attacks Arg1:T1 Arg2:T3	
+T2	Premise 3721 3770	Prices of essential services have also increased.
+T5	Premise 3647 3720	Prices of majority of essential drugs have increased up to 2.29 per cent.
+T4	Premise 3299 3392	Around 60 per cent of goods and services are in the higher tax brackets under the GST regime.
+R2	attacks Arg1:T4 Arg2:T3	
+R3	attacks Arg1:T6 Arg2:T3	
+R4	attacks Arg1:T7 Arg2:T3	
+R5	attacks Arg1:T5 Arg2:T3	
+R6	attacks Arg1:T2 Arg2:T3	

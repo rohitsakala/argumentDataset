@@ -1,0 +1,3 @@
+T1	Claim 453 622	The Government has failed to impress upon the State Government of Jammu & Kashmir to get incorporated in the national tax regime which started rolling out from 1st July.
+T2	Premise 1816 1926	GST was rolled out throughout the nation on July 1st 2017 except Jammu and Kashmir for Constitutional reasons.
+R1	attacks Arg1:T2 Arg2:T1	

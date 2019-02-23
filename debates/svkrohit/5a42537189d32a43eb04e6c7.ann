@@ -1,0 +1,202 @@
+T3	Claim 273 317	This Vision 2020 document covers everything.
+T4	Claim 652 693	the crux of the Railways is its finances.
+T6	Claim 1034 1093	it is impossible for any Railway Minister to move smoothly.
+T7	Claim 2356 2410	the time has come to have a national policy on railway
+T10	Claim 1942 2026	Nowhere in the world the Railways have the capacity to earn money and plough it back
+T11	Premise 743 821	I had to borrow about Rs.3000 crore to put in to the Railway Development Fund.
+T12	Premise 318 427	In this very Report of the Railway Convention Committee a lot of reference has been made to this Vision 2020.
+R1	supports Arg1:T12 Arg2:T3	
+R2	supports Arg1:T11 Arg2:T4	
+T1	Premise 958 1032	they have to pay interest as dividend on whatever capital the Railways get
+T2	Premise 822 939	My point is that the Railways are not allowed to do whatever they want to do in terms of generating their own revenue
+R3	supports Arg1:T2 Arg2:T6	
+R4	supports Arg1:T1 Arg2:T6	
+T5	Premise 2155 2219	Japan took money from the World Bank at a very low interest rate
+R5	supports Arg1:T5 Arg2:T10	
+T8	Premise 2419 2441	railway is a big asset
+R6	supports Arg1:T8 Arg2:T7	
+T14	Claim 2641 2714	Many governments came but Odisha remained neglected in terms of railways.
+T16	Claim 3061 3113	Railways have to bear the loss of uneconomical lines
+T19	Claim 4225 4290	there is a need to scrutiny the whole process related to dividend
+T20	Premise 4297 4353	to assess the amount and period of dividend to be given.
+R7	supports Arg1:T20 Arg2:T19	
+T17	Premise 3114 3139	due to social obligation.
+T15	Premise 2911 3023	There are a number of Railway projects in Odisha that are financially viable but have not been sanctioned as yet
+R8	supports Arg1:T17 Arg2:T16	
+R9	supports Arg1:T15 Arg2:T14	
+T22	Claim 5057 5104	There is a need to strengthen the rail services
+T27	Claim 5522 5636	Railway should use this land commercially and explore all ideas and see to it that it is really interested in that
+T29	Claim 5694 5750	I feel that there is no need to provide dividend at all.
+T30	Premise 5751 5833	Instead government should use the whole money on the development of rail services.
+T9	Claim 4873 4920	we should ensure the timely operation of trains
+T13	Premise 4765 4809	condition is day by day worsening in Mumbai.
+R10	supports Arg1:T13 Arg2:T9	
+R11	supports Arg1:T13 Arg2:T22	
+T18	Premise 5361 5424	Railway has a huge land asset which is largely encroached upon.
+R12	supports Arg1:T18 Arg2:T27	
+R13	supports Arg1:T30 Arg2:T29	
+R14	supports Arg1:T9 Arg2:T22	
+T21	Claim 5964 6010	There is no need of having any objection to it
+T23	Premise 6019 6063	the dividend goes in favour of the labourers
+T24	Claim 6074 6143	we have experienced that the dividend payable every year is declining
+T25	Premise 6144 6164	because of inflation
+T26	Claim 6224 6259	Railway has to make its own revenue
+T28	Premise 6172 6218	there is no budgetary support for the Railways
+R15	supports Arg1:T23 Arg2:T21	
+R16	supports Arg1:T25 Arg2:T24	
+R17	supports Arg1:T28 Arg2:T26	
+T31	Claim 6464 6552	the Railways is not able to invest much on new projects which could generate new income.
+T32	Premise 6320 6450	the railway has a very huge infrastructure to pay for the new lines, new trains, new platforms, salaries to the workers and so on.
+R18	supports Arg1:T32 Arg2:T31	
+T33	Premise 6567 6641	it has to fulfill its social obligation of providing passenger facilities.
+T38	Claim 7286 7370	The Railways should not implement the recommendations of the Rakesh Mohan Committee.
+T39	Premise 7383 7430	it would go purely on the path of privatization
+T40	Claim 7450 7493	public participation should be kept in mind
+T41	Premise 7502 7539	the Railways has a social obligation.
+R19	supports Arg1:T33 Arg2:T31	
+R20	supports Arg1:T39 Arg2:T38	
+R21	supports Arg1:T41 Arg2:T40	
+T35	Claim 7772 7840	Today government is committed towards providing security in railways
+T36	Premise 7858 7926	Railway has made a proposal to appoint 3000 women security personnel
+T42	Claim 8006 8136	Under the able leadership of our hon.Prime Minister, Railway Minister has taken initiative to give importance to the whole country
+T43	Premise 8138 8267	I would like to compliment our hon.Prime Minister for introducing rail services in Tripura for the first time after Independence.
+T44	Claim 8268 8332	Government have also implemented 353 projects across the country
+T45	Premise 8334 8552	I would like to extend my gratitude to the hon.Prime Minister and the Minister of Railways for providing Rs.2179 crore for the railway line passing from Khalilabad to Balrampur via Medaval, Bausi, Utraula and Shrawasti
+T48	Claim 8883 8919	dividend should not be taken from it
+R22	supports Arg1:T36 Arg2:T35	
+R23	supports Arg1:T43 Arg2:T42	
+R24	supports Arg1:T45 Arg2:T42	
+T34	Premise 8764 8819	It stands to be our duty to meet the social obligations
+T37	Premise 8628 8762	we spend billions of rupees on education and health care to meet the social obligations but these two Departments do not pay dividends
+R25	supports Arg1:T37 Arg2:T48	
+R26	supports Arg1:T34 Arg2:T48	
+T47	Claim 9105 9162	it has to be run efficiently and in a professional manner
+T49	Premise 9201 9323	The Government of India provides Gross Budgetary Support to the Indian Railways to the tune of Rs.40,000 crore every year.
+T50	Claim 9328 9440	the net effect is that whatever the Railways pay as dividend to the Government of India is less than 3 per cent.
+T53	Claim 9754 9829	It is extremely unfair on the part of the Railway Board to ask for a waiver
+T54	Premise 9838 9874	Government of India also needs funds
+T55	Claim 10041 10116	a Railway Zone along with special status should be given to Andhra Pradesh.
+T56	Premise 9876 10036	As per the States Reorganization Act of Andhra Pradesh after the formation of Telangana, it had been declared that Vizag would be given a separate Railway Zone.
+T46	Premise 9066 9103	Since it is a commercial organization
+R27	supports Arg1:T46 Arg2:T47	
+R28	supports Arg1:T49 Arg2:T50	
+R29	supports Arg1:T54 Arg2:T53	
+R30	supports Arg1:T56 Arg2:T55	
+T57	Premise 10368 10458	Foodgrains are transported from Punjab to various states with the help of railway network.
+T58	Claim 10463 10521	railway plays a crucial role as far as Punjab is concerned
+T59	Premise 10532 10614	much is yet to be done as far as the railway infrastructure in Punjab is concerned
+T60	Claim 10616 10689	Step-motherly treatment was meted out of Punjab by erstwhile Governments.
+T65	Claim 11000 11089	A four-lane road connectivity between Amritsar and Talwandi Shaib is the need of the hour
+T67	Claim 11154 11205	When the gates are closed, it leads to massive jams
+T68	Claim 11381 11451	It becomes difficult for the commuters, especially women and children.
+T69	Claim 11456 11503	toilet facility must be provided in this train.
+T70	Premise 11381 11451	It becomes difficult for the commuters, especially women and children.
+R31	supports Arg1:T70 Arg2:T69	
+T71	Claim 11314 11380	No toilet facility has been provided for passengers in this train.
+R32	supports Arg1:T71 Arg2:T68	
+R33	supports Arg1:T57 Arg2:T58	
+R34	supports Arg1:T59 Arg2:T60	
+T51	Premise 10955 10998	Talwandi Sahib is a holy place of the Sikhs
+R35	supports Arg1:T51 Arg2:T65	
+T52	Premise 11100 11152	there is no underpass or overbridge at Talwandi town
+R36	supports Arg1:T52 Arg2:T67	
+T64	Claim 12133 12178	it is high time that we should come out of it
+T66	Premise 12102 12128	It is a traditional system
+R37	supports Arg1:T66 Arg2:T64	
+T73	Claim 12235 12311	The Railway Zones set up during British era are also required to be changed.
+T74	Claim 12446 12492	We have demanded to convert Nagpur into a Zone
+T75	Premise 12493 12548	so that administrative mechanism should be run properly
+R38	supports Arg1:T75 Arg2:T74	
+T76	Claim 12313 12406	he Government is required to make efforts to get the Railways rid of British style of working
+T77	Premise 12408 12445	if it wants to bail it out of losses.
+R39	supports Arg1:T77 Arg2:T73	
+R40	supports Arg1:T77 Arg2:T76	
+T62	Claim 12794 12872	the Central Government is not giving any funds for upgradation of the Railways
+T63	Premise 12750 12785	The Railways is not earning profits
+R41	supports Arg1:T63 Arg2:T62	
+T79	Premise 12950 13086	The funds being given out as dividend should be utilized for redevelopment of the dilapidated railway quarters which are 80-90 years old
+T81	Premise 13317 13437	The Government should utilize the dividend funds for introducing a DEMU train and also for construction of ROBs and RUBs
+T61	Claim 12881 12948	the infrastructure of the Railways needs to be improved on priority
+R42	supports Arg1:T79 Arg2:T61	
+R43	supports Arg1:T81 Arg2:T61	
+R44	supports Arg1:T81 Arg2:T79	
+T78	Claim 13485 13616	Hon.Chief Minister of Tamil Nadu had stated that this Budget belied the sense of expectation nursed by many segments of population.
+T80	Claim 13617 13673	Major stations should be brought under CCTV surveillance
+T82	Premise 13677 13715	it will ensure the safety and security
+R45	supports Arg1:T82 Arg2:T80	
+T83	Claim 14284 14346	people from all walks of life get the benefit of Rail services
+T84	Premise 14148 14275	the Railway Minister to introduce shuttle service between Tiruppur and Palakkad as well as Tiruppur to Riruchirapalli via Kurur
+R46	supports Arg1:T84 Arg2:T83	
+T86	Claim 14686 14806	he passengers are not getting even the basic amenities even after such a unprecedented increase in the fares and freight
+T87	Premise 14808 14989	It is our humble request that the Government should introduce the bullet train but the infrastructure of the rail system has not been improved to the extent it should have been done
+T88	Claim 15050 15112	The Railways should think to lay an additional rail line there
+T89	Premise 15114 15242	This demand does not belong to my Parliamentary Constituency alone but it will cover at least 10-15 Parliamentary Constituencies
+R47	supports Arg1:T89 Arg2:T88	
+R48	supports Arg1:T87 Arg2:T86	
+R49	supports Arg1:T86 Arg2:T88	
+T90	Premise 15692 15754	The basic infrastructure of the Railways has not been upgraded
+T91	Premise 15756 15826	No ordinary passenger can enter the general category coach even today.
+T94	Premise 16116 16200	The projects initiated in the year 1996 in Uttar Pradesh have not yet been completed
+T93	Claim 15905 15999	Hon.Minister of Railways did a good thing in the Rail Budget that no new project was announced
+R50	supports Arg1:T94 Arg2:T93	
+T95	Claim 16272 16342	There are several problems relating to the Railways before the country
+R51	supports Arg1:T91 Arg2:T95	
+R52	supports Arg1:T90 Arg2:T95	
+R53	supports Arg1:T91 Arg2:T90	
+T85	Claim 16664 16727	The robust rail system is symbol of the progress of any country
+T92	Premise 16729 16871	The Railways carries the people to their destinations and also undertakes the important job of transporting the goods from one place to other.
+R54	supports Arg1:T92 Arg2:T85	
+T96	Claim 16883 17015	it is necessary that the basic infrastructure of the Railways should be robust and it should have enough funds for expansion as well
+R55	supports Arg1:T92 Arg2:T96	
+T97	Claim 17627 17749	I would, therefore, like to request that its timetable should be changed suitably and this train should ply all seven days
+T98	Premise 17471 17625	I would like to bring into the kind notice of the hon.Minister of Railways that a short distance train plies in my Constituency and its timetable is wrong
+R56	supports Arg1:T98 Arg2:T97	
+T101	Claim 22260 22313	I would request the hon.Minister to set up NERRD Fund
+T102	Premise 22114 22254	The 25th Report of the Standing Committee specifies that the projects in North-East should be given top priority and should be given support
+R57	supports Arg1:T102 Arg2:T101	
+T103	Claim 22315 22412	There should be new national projects for North-East, especially in my constituency, Lok Kaliabor
+R58	supports Arg1:T102 Arg2:T103	
+T104	Claim 25086 25223	The work of laying this railway line should be completed and work of Giridih-Kuwad railway line should also be completed at the earliest.
+T105	Premise 24964 25085	The demand of laying Parasnath-Giridih railway line under the Giridih Lok Sabha constituency has been pending since 1996.
+R59	supports Arg1:T105 Arg2:T104	
+T106	Claim 25953 26013	Therefore, we really need to relook at the issue completely.
+T107	Premise 25862 25952	At that time, Railways were not taking 'public service' obligation. Now, we are taking it.
+R60	supports Arg1:T107 Arg2:T106	
+T108	Premise 25355 25403	ailways has been in deep trouble for a long time
+R61	supports Arg1:T108 Arg2:T106	
+T110	Claim 26927 27040	Therefore, I am saying that the Gross Budgetary Support on which the dividend is given, needs some proper re-look
+T111	Premise 26821 26926	So, when we get the GBS, to provide dividend on it is something, which is overburdening the organization.
+T113	Claim 26625 26684	Therefore, there is also a need to have operational subsidy
+T118	Premise 27142 27261	So, from the main Budget, if we get the money on which we have to pay the dividend, it would cause an additional burden
+T120	Premise 27338 27394	Therefore, we need to get more revenues in the railways.
+T122	Claim 27499 27609	We have taken many new initiatives which are reforming the freight sector of the railways in a significant way
+T125	Premise 27755 27911	Apart from it, we have been taking several measures to increase the non-revenue income of railways which do not come from the traditional sources of revenue
+T131	Claim 28346 28462	As I explained, we have increased that amount from Rs.40,000 crore to Rs.1,21,000 crore, which is almost three times
+T132	Premise 28226 28345	Many hon.Members have pointed out that they need something significantly more for their States than what was available.
+R62	supports Arg1:T132 Arg2:T131	
+T114	Premise 26524 26624	Also, when we run these lines, they are not profitable but they are run for some strategic purposes.
+R63	supports Arg1:T114 Arg2:T113	
+R64	supports Arg1:T111 Arg2:T110	
+R65	supports Arg1:T118 Arg2:T110	
+T109	Claim 27168 27261	if we get the money on which we have to pay the dividend, it would cause an additional burden
+R66	supports Arg1:T120 Arg2:T109	
+T112	Premise 27395 27442	One traditional revenue is the freight traffic.
+R67	supports Arg1:T112 Arg2:T122	
+R68	supports Arg1:T125 Arg2:T109	
+T115	Premise 4400 4529	Railway is a commercial institute and being a commercial institute it earns profit. Then it has to give dividend from that profit
+R69	attacks Arg1:T115 Arg2:T10	
+T116	Claim 4922 5055	Passengers are never given information by the PR people from the Railways whereas Convention Committee is thinking of giving dividend
+R70	supports Arg1:T23 Arg2:T29	
+R71	attacks Arg1:T23 Arg2:T116	
+T117	Claim 7540 7659	One point I would press on is that the Government should reserve some amount for the Railways to continue the dividend.
+T121	Claim 8821 8920	Hence, given the social obligations associated with Railways, dividend should not be taken from it.
+R72	attacks Arg1:T121 Arg2:T117	
+R73	attacks Arg1:T37 Arg2:T117	
+T123	Claim 9441 9569	It is high time that the Railways should pay a dividend as much as possible as is paid by some other Public Sector Undertakings.
+R74	attacks Arg1:T123 Arg2:T121	
+T124	Premise 11946 12101	Railways pay dividend to the Government, especially in such a situation when Railway is running in loss and taking loans to meet their capital requirement.
+R75	attacks Arg1:T124 Arg2:T123	
+R76	attacks Arg1:T124 Arg2:T117	
+T133	Claim 15827 15903	The Ministry of Railways is still paying dividend to the Ministry of Finance
+R77	supports Arg1:T90 Arg2:T133	
+R78	supports Arg1:T91 Arg2:T133	
